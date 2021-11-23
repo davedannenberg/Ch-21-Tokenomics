@@ -1,5 +1,7 @@
 # Ch-21-Tokenomics
 
+This project focused on the creation of a token contract, a deployment and a crowdsale contract. They were written in Solidity, using the Remix platform, which also handled the contract compilations and deployments.
+
 Evaluation Evidence
 
 Token Contract Compilation:
